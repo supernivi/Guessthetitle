@@ -1,0 +1,55 @@
+{
+  "questions": [
+
+    {
+      "answers": [
+        "'Irises' by Vincent van Gogh",
+        "'Water Lillies' by Claude Monet"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "image": "img/q1.jpg",
+      "number": 1,
+      "prompt": "The artist is best known for his representations of village life, especially \"Santhal\" women."
+    },
+    {
+      "answers": [
+        "'The Kiss' by Gustav Klimt",
+        "'Le Baiser' by Pablo Picasso"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "image": "img/q2.jpg",
+      "number": 2,
+      "prompt": "Although there are a number of versions of this painting, the original lies in the Louvre, Paris."
+    },
+    {
+      "answers": [
+        "'Birth of Venus' by Sandro Botticelli",
+        "'Penitent Mary Magdalene' by Titian"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "image": "img/q3.jpg",
+      "number": 3,
+      "prompt": "The artist was called the 'Picasso of India' by Forbes magazine "
+    },
+    {
+      "answers": [
+        "'Glow of Hope' by Sawlaram Haldankar",
+        "'Bharat Mata' by Abhanindranath Tagore"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "image": "img/q4.jpg",
+      "number": 4,
+      "prompt": "The artist had a tumultuous relationship with Mexican muralist, Diego Rivera."
+    }
+  ],
+  "title": "Guess The Title Of The Art Work",
+  "url": "https://guessthetitleoftheartwork.artfervour.ga/"
+}
