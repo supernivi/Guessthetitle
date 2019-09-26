@@ -11,7 +11,7 @@
       },
       "image": "img/q1.jpg",
       "number": 1,
-      "prompt": "The artist is best known for his representations of village life, especially \"Santhal\" women."
+      "prompt": "Guess the title of the artwork."
     },
     {
       "answers": [
@@ -23,7 +23,7 @@
       },
       "image": "img/q2.jpg",
       "number": 2,
-      "prompt": "Although there are a number of versions of this painting, the original lies in the Louvre, Paris."
+      "prompt": "Guess the title of the artwork."
     },
     {
       "answers": [
@@ -35,7 +35,7 @@
       },
       "image": "img/q3.jpg",
       "number": 3,
-      "prompt": "The artist was called the 'Picasso of India' by Forbes magazine "
+      "prompt": "Guess the title of the artwork."
     },
     {
       "answers": [
@@ -47,7 +47,7 @@
       },
       "image": "img/q4.jpg",
       "number": 4,
-      "prompt": "The artist had a tumultuous relationship with Mexican muralist, Diego Rivera."
+      "prompt": "Guess the title of the artwork."
     }
   ],
   "title": "Guess The Title Of The Art Work",
