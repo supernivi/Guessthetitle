@@ -3,8 +3,8 @@
 
     {
       "answers": [
-        "'Irises' by Vincent van Gogh",
-        "'Water Lillies' by Claude Monet"
+        "'The Last Supper' by Leonardo da Vinci",
+        "'The Last Judgement' by Michelangelo"
       ],
       "correct": {
         "index": 0
@@ -15,8 +15,8 @@
     },
     {
       "answers": [
-        "'The Kiss' by Gustav Klimt",
-        "'Le Baiser' by Pablo Picasso"
+        "'Guernica' by Pablo Picasso",
+        "'American Gothic' by Grant Wood"
       ],
       "correct": {
         "index": 0
@@ -27,11 +27,11 @@
     },
     {
       "answers": [
-        "'Birth of Venus' by Sandro Botticelli",
-        "'Penitent Mary Magdalene' by Titian"
+        "'The Lady in the Hat' by Ilya Mashkov",
+        "'Woman with a Hat' by Henri Matisse"
       ],
       "correct": {
-        "index": 0
+        "index": 1
       },
       "image": "img/q3.jpg",
       "number": 3,
@@ -39,8 +39,8 @@
     },
     {
       "answers": [
-        "'Glow of Hope' by Sawlaram Haldankar",
-        "'Bharat Mata' by Abhanindranath Tagore"
+        "'The Lost Princesses' by Maqbool Fida Husain",
+        "'Celebration' by Tyeb Mehta"
       ],
       "correct": {
         "index": 0

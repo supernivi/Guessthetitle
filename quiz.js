@@ -279,11 +279,11 @@ var $indicators = $('<ol>')
     .appendTo($results_slide);
 
   var $twitter_link = $('<a>')
-    .html('<img src="/instagram-logo-black_134941.png" style="height: 34px; width: 34px; display: inline-block; margin-top: 0px" alt="">')
+    .html('<img src="instagram_logo_black.png" style="height: 34px; width: 34px; display: inline-block; margin-top: 0px" alt="">')
     .appendTo($social);
 
   var $facebook_link = $('<a>')
-    .html('<img src="/fb-logo-black-circle.png" style="height: 32px; width: 32px; display: inline-block; margin-top: 0px" alt="">')
+    .html('<img src="fb-logo-black-circle.png" style="height: 32px; width: 32px; display: inline-block; margin-top: 0px" alt="">')
     .appendTo($social);
 
   $("<button>")
